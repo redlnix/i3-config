@@ -1,3 +1,3 @@
 things needed for config:
 
-i3bar, 
+i3bar, Jetbrains mono,  
